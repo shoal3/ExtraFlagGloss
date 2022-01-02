@@ -10,6 +10,14 @@ Gloss and guide created by Sydney anon.
 
 ![1](images/1.png)
 
-4. Resize the flag to 16x11px with the interpolation set to either Cubic or None.
+4. Resize the flag to 16x11px with the interpolation set to Cubic (None can also be used, it depends on the flag)
+
+![2](images/2.png)
+
 5. Copy the 16x11px flag, go back to the Gloss.xcf tab, then paste it on top of the '**Background**' layer.
+
+![3](images/3.png)
+
 6. Export the flag icon as a png file.
+
+![4](images/Bolivia.png)
