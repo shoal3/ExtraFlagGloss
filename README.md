@@ -10,7 +10,7 @@ Gloss and guide created by Sydney anon.
 
 ![1](images/1.png)
 
-4. Resize the flag to 16x11px with the interpolation set to Cubic (None can also be used, it depends on the flag)
+4. Resize the flag to 16x11px with the interpolation set to 'Cubic' ('None' can also be used, it depends on the flag)
 
 ![2](images/2.png)
 
