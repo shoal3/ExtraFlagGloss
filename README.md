@@ -1,4 +1,4 @@
-# ExtraFlags Gloss
+# Extra Flags Gloss
 
 ### GUIDE- How To Use This Gloss And Make Proper Flag Icons
 
