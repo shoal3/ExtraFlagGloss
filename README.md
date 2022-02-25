@@ -3,7 +3,7 @@
 ### GUIDE- How To Use This Gloss And Make Proper Flag Icons
 
 1. Download and install GIMP. https://www.gimp.org/
-2. Download Gloss.xcf and open it with GIMP.
+2. Download Gloss.xcf and open it with GIMP. https://github.com/shoal3/ExtraFlagGloss/blob/main/Gloss.xcf?raw=true
 3. Download and open a flag image with GIMP. Check that the image mode is 'RGB' instead of 'Indexed'.
 
 ![1](images/1.png)
