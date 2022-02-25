@@ -1,7 +1,5 @@
 # ExtraFlags Gloss
 
-Gloss and guide created by Sydney anon.
-
 ### GUIDE- How To Use This Gloss And Make Proper Flag Icons
 
 1. Download and install GIMP. https://www.gimp.org/
