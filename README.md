@@ -1,4 +1,4 @@
-# Remastered Flag Gloss
+# New Flag Gloss
 
 ### GUIDE- How To Use This Gloss And Make Proper Flag Icons
 
