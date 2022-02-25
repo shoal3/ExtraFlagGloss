@@ -4,7 +4,7 @@
 
 1. Download and install GIMP. https://www.gimp.org/
 2. Download Gloss.xcf and open it with GIMP.
-3. Download and open a flag image with GIMP. Check that the image mode is RGB instead of Indexed.
+3. Download and open a flag image with GIMP. Check that the image mode is 'RGB' instead of 'Indexed'.
 
 ![1](images/1.png)
 
@@ -12,7 +12,7 @@
 
 ![2](images/2.png)
 
-5. Copy the 16x11px flag, go back to the Gloss.xcf tab, then paste it on top of the '**Background**' layer.
+5. Copy the 16x11px flag, go back to the Gloss.xcf tab, and then paste it on top of the '**Background**' layer.
 
 ![3](images/3.png)
 
