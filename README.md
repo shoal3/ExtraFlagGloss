@@ -16,6 +16,6 @@
 
 ![3](images/3.png)
 
-6. Export the flag icon as a png file.
+6. Export as a png file.
 
 ![4](images/Bolivia.png)
