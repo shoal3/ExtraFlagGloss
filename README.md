@@ -4,7 +4,7 @@
 
 1. Download and install GIMP. https://www.gimp.org/
 2. Download Gloss.xcf and open it with GIMP.
-3. Download and open a flag image with GIMP. Check that the image mode is RBG instead of Indexed.
+3. Download and open a flag image with GIMP. Check that the image mode is RGB instead of Indexed.
 
 ![1](images/1.png)
 
