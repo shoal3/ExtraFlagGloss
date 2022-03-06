@@ -10,6 +10,7 @@
 
 4. Resize the flag to 16x11px with the interpolation set to 'Cubic' ('None' can also be used, it depends on the flag)
 
+![scale](images/scale.png)
 ![2](images/2.png)
 
 5. Copy the 16x11px flag, go back to the Gloss.xcf tab, and then paste it on top of the '**Background**' layer.
