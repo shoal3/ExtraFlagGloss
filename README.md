@@ -17,6 +17,6 @@
 
 ![3](images/3.png)
 
-6. Export as a png or gif file.
+6. Export as a png file.
 
 ![4](images/Bolivia.png)
