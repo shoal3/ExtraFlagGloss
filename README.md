@@ -1,6 +1,6 @@
-# New Gloss for Extra Flags
+# Alternative Gloss for Extra Flags
 
-### GUIDE- How To Use This Gloss And Make Proper Flag Icons
+### GUIDE- How To Use This Gloss And Make Flag Icons
 
 1. Download and install GIMP. https://www.gimp.org/
 2. Download Gloss.xcf and open it with GIMP. https://github.com/shoal3/ExtraFlagGloss/blob/main/Gloss.xcf?raw=true
