@@ -2,9 +2,11 @@
 
 ### GUIDE- How To Use This Gloss And Make Flag Icons
 
-1. Download and install GIMP. https://www.gimp.org/
-2. Download Gloss.xcf and open it with GIMP. https://github.com/shoal3/ExtraFlagGloss/blob/main/Gloss.xcf?raw=true
-3. Download then open a flag image with GIMP. Check that the flag's Mode is 'RGB' instead of 'Indexed'.
+This guide is meant for GIMP. I don't use Paint.NET but there is a .pdn file anyway.
+
+1. Download and install GIMP or Paint.NET
+2. Download Gloss.xcf (GIMP) or Gloss.pdn (Paint.NET) and open it
+3. Download then open a flag image with GIMP or Paint.NET. Ensure that the flag's Mode is 'RGB' instead of 'Indexed'.
 
 ![1](images/1.png)
 
