@@ -20,7 +20,7 @@ This guide is meant for GIMP. I don't use Paint.NET but there is a .pdn file any
 
 6. OPTIONAL: Gloss modifications. You can switch between Modes 1 and 2. Mode 2 Border is default and the darkest, but the lighter Mode 1 is also available. I also usually turn off the Darken layer for yellow flags (but don't turn Darken off if there is white around the border).
 
-![6[(images/6.png)
+![6](images/6.png)
 
 ![3](images/4.gif)
 
