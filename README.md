@@ -1,5 +1,5 @@
 # New Gloss for Extra Flags
-In development. May change in the future.
+IN DEVELOPMENT. THIS IS JUST AN ALTERNATIVE GLOSS, YOU DON'T HAVE TO USE IT.
 ### GUIDE- How To Use This Gloss
 
 This guide is meant for GIMP. I don't use Paint.NET but there is a .pdn file anyway.
