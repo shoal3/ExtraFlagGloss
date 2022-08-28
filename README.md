@@ -1,6 +1,6 @@
-# Alternative Gloss for Extra Flags
-
-### GUIDE- How To Use This Gloss And Make Flag Icons
+# New Gloss for Extra Flags
+In development. May change in the future.
+### GUIDE- How To Use This Gloss
 
 This guide is meant for GIMP. I don't use Paint.NET but there is a .pdn file anyway.
 
