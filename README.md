@@ -29,6 +29,4 @@ This guide is meant for GIMP. I don't use Paint.NET but there is a .pdn file any
 ![5](images/5.png)
 
 ---
-Made by sydney
-
-![6](images/au.png)
+Made by Sydney.
